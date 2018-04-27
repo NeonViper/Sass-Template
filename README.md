@@ -13,6 +13,6 @@
 
 <ol>
   <li>Navigate to Project Folder</li>
-  <li>Run: "<strong>npm run start<strong>" to Run Live Server, Watch for Changes and Autorefresh</li>
+  <li>Run: "<strong>npm run start</strong>" to Run Live Server, Watch for Changes and Autorefresh</li>
   <li>Run: "<strong>npm run build:css</strong>" to Compile, Concatenate, Prefix and Compress the new CSS</li>
 </ol>
